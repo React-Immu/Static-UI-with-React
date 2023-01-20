@@ -1,6 +1,7 @@
-## In this exercise I had to recreate Helsingin Sanomat web site. 
+# In this exercise my task was to recreate the look of Helsingin Sanomat website. 
 
-![image of the recreation](images/Ex1.PNG)
+This is how it turned out.
+![image of the recreation](images/Ex1.jpg)
 
 
 # Getting Started with Create React App

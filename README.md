@@ -1,6 +1,6 @@
 ## In this exercise I had to recreate Helsingin Sanomat web site. 
 
-![image of the recreation](images/Ex1.png)
+![image of the recreation](images/Ex1.PNG)
 
 
 # Getting Started with Create React App
